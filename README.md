@@ -1,7 +1,7 @@
 # E-commerce-Responsive-website
 
-MK dress shop fronted full developement
+LUXE dress shop fronted full developement
 using Html,javascript,Css
 
 Website live demo or outcome
-https://e-commerce-website-660fe.web.app/
+https://e-commerce-seven-khaki-77.vercel.app/
